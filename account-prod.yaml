@@ -1,0 +1,12 @@
+#Configuration
+build:
+  version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs--Prod"
+    contactDetails:
+        name: "Punam Nikam"
+        email: "n_punam@hotmail.com"
+    onCallSupport:
+        - 2255664488
+        - 1928374664

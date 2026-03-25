@@ -1,0 +1,12 @@
+#Configuration
+build:
+  version: "1.0"
+
+accounts:
+    message: "Welcome to MyBank account related REST APIs --UAT"
+    contactDetails:
+        name: "Swapnil Jadhav"
+        email: "j_swapnil@hotmail.com"
+    onCallSupport:
+        - 9988774455
+        - 1122334455
