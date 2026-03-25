@@ -5,8 +5,8 @@ build:
 customers:
     message: "Welcome to MyBank Customer related PRODUCTION REST APIs - PROD"
     contactDetails:
-        name: "Swapnil J."
-        email: "swapnil.j@msedcl.in"
+        name: "Swapnil Jadhav"
+        email: "swapnil.jadhav@msedcl.in"
     onCallSupport:
         - 879887988
         - 546856832
