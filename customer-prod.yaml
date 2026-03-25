@@ -3,11 +3,11 @@ build:
     version: "1.0"
 
 customers:
-    message: "Welcome to MyBank Customer related REST APIs - PROD"
+    message: "Welcome to MyBank Customer related PRODUCTION REST APIs - PROD"
     contactDetails:
-        name: "Mahesh Patil"
-        email: "mahesh.patil@msedcl.in"
+        name: "Swapnil J."
+        email: "swapnil.j@msedcl.in"
     onCallSupport:
-        - 99887766
-        - 44556677
+        - 879887988
+        - 546856832
 
